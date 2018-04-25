@@ -1,0 +1,159 @@
+*{
+  margin: 0 auto;
+  padding: 0px;
+  font-family:Arial;
+}
+header,nav{display:block;}
+header{
+	width:100%;
+	height:99px;
+	background-color:#f6f9f9;
+	text-align:center;
+}
+a:visited {
+	color: none;
+}
+#thelogo{
+text-decoration: none;
+font-size:22px;
+color:#2d3950;
+font-weight:bold;
+width:197px;
+height: 37px;
+padding: 5px;
+padding-left: 20px;
+display:inline-block;
+background:url(../images/logo.png);
+background-repeat: no-repeat;
+}
+.MyMenu{
+  display:inline-block;
+	margin-top:41px;
+	margin-left:112px;
+	font-size:26px;
+	font-weight:bold;
+	}
+  .MyMenu a{
+	text-decoration:none;
+	color:#264951;
+	padding-left:10px;
+	padding-right:11px;
+}
+.MyMenu a:hover{
+	color:#6a8391;
+}
+#one{
+    background-image: url(../images/ex2image.png);
+    background-repeat: no-repeat;
+    height: 800px;
+    color: #ffffff;
+}
+#one p{
+    padding-top: 35px;
+    font-size: 20px;
+    color: #ffffff;
+}
+#one a{
+  color:#DAF7A6;
+  display: block;
+}
+#coverSection a{
+        color: #DAF7A6;
+        display: block;
+}
+h1{
+    margin-top: 194px;
+    font-size: 120px;
+    color: ##F0FFFF;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #15a4fa;
+    display: inline-block;
+    font-weight: normal;
+}
+.onlyhebrew {
+    font-family: "Myriad Hebrew";
+    font-weight: normal;
+    font-size: 39px;
+    padding-top: 76px;
+}
+.placed{
+    margin-top: 165px;
+    font-size: 35px;
+    font-family: arial;
+}
+#placedID{
+    height: 340px;
+    background-color: #f7f8fa;
+}
+#placedID p
+{
+    padding-top: 40px;
+    line-height: 30px;
+    font-size: 20px;
+    color: #999999;
+}
+#github {
+    height: 36px;
+    width: 178px;
+    margin-top: 62px;
+    padding-top: 5px;
+    font-size: 18px;
+    border: 2px solid #15a4fa;
+    border-radius: 2px;
+    text-decoration: none;
+    margin-right: auto;
+    margin-left: auto;
+}
+#github:hover{
+    font-size: 20px;
+    background-color: #727b8b;
+    height: 39px;
+    width: 181px;
+}
+.Programming{
+	width:1600px;
+	height:640px;
+	background-color: #FFFFFF;}
+.Programming h2{
+	padding-top: 80px;
+  padding-bottom: 60px;
+	text-align: center;
+  font-size: 45px;
+  font-weight: normal;
+}
+.Programming li{
+	list-style-type: none;
+	height: 100px;
+	width:700px;
+	margin-left: 63px;
+	margin-bottom: 30px;
+	line-height: 90px;
+}
+.Programming h3{
+	display: inline-block;
+	color: #525252;
+	font-size: 35px;
+	font-weight: normal;
+	font-family: Arial;
+	padding-left: 1px;
+	vertical-align: top;
+}
+footer {
+    height: 90px;
+    padding-top: 25px;
+    padding-right: 800px;
+    font-size: 15px;
+    color: #264951;
+    background-color: 	#FFFAFA;
+   }
+    footer{
+    	padding-top:50px;
+    	margin-left:70px;
+    }
+    footer img {
+    	vertical-align:middle;
+    }
+    footer h5 {
+    	display:inline-block;
+    	text-align:center;
+    	}
